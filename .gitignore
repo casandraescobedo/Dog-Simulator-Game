@@ -1,0 +1,9 @@
+# macOS specific
+.DS_Store
+
+# C++ build files
+*.o
+*.out
+
+# Executable program name
+dogGame
